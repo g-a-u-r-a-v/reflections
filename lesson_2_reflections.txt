@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+When we initialize a repository git makes some hidden files with 
+.git extension and it track all files withinn that directory.
